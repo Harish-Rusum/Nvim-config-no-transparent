@@ -151,16 +151,6 @@ local plugins = {
 		end,
 	},
 	{
-		"folke/noice.nvim",
-		event = "VeryLazy",
-		opts = {
-		},
-		dependencies = {
-			"MunifTanjim/nui.nvim",
-			"rcarriga/nvim-notify",
-		},
-	},
-	{
 		"nvim-neo-tree/neo-tree.nvim",
 		branch = "v3.x",
 		dependencies = {
