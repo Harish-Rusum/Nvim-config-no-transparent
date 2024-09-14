@@ -19,15 +19,13 @@ require("user.plugins.bufferline")
 require("user.plugins.gitsigns")
 require("user.plugins.treesitter")
 require("user.plugins.hicolors")
+require("user.plugins.dim")
 
 -- NOTE: search stuff
 require("user.plugins.telescope")
 require("user.plugins.oil")
 require("user.plugins.neo-tree")
 require("user.plugins.numb")
-
--- NOTE: markdown
-require("user.plugins.scrollbar")
 
 -- NOTE: terminal plugin
 require("user.plugins.fterm")

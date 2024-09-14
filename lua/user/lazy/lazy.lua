@@ -244,7 +244,8 @@ local plugins = {
       ft = { "markdown", "Avante" },
     },
   },
-	{"petertriho/nvim-scrollbar"}
+	{"petertriho/nvim-scrollbar"},
+	{"levouh/tint.nvim"}
 }
 -- PERF: setting a rounded border
 
